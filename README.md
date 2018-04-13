@@ -3,9 +3,9 @@ Yahoo Music Recommendation system based on several user ratings for albums and p
 
 ## Dataset
 
-Dataset name - Yahoo! Music user ratings of musical tracks, albums, artists and genres
-Link  -  https://webscope.sandbox.yahoo.com/catalog.php?datatype=c
-Size  - 1.5 GB
+* Dataset name - Yahoo! Music user ratings of musical tracks, albums, artists and genres
+* Link  -  https://webscope.sandbox.yahoo.com/catalog.php?datatype=c
+* Size  - 1.5 GB
 
 ### Dataset Description
 
@@ -17,6 +17,9 @@ On Yahoo Music Dataset - Artists, Albums, Songs, Genres
 * Track 1: predict user rating
 * Track 2: decide whether a user rates a song or not
 
+![alt text](https://github.com/saranyavsr/YAHOO-Music-Recommendations/blob/master/Images/Data%20Links.png)
+
+
 #### Track 1
 
 * Typical collaboration filtering task.
@@ -27,6 +30,9 @@ On Yahoo Music Dataset - Artists, Albums, Songs, Genres
 * Includes time stamp of rating
   - Rating behavior might have changed over time. 
   - Older songs rated differently than newer songs?
+  
+![alt text](https://github.com/saranyavsr/YAHOO-Music-Recommendations/blob/master/Images/Track1.png)
+
 
 #### Track 2
 
@@ -35,4 +41,6 @@ On Yahoo Music Dataset - Artists, Albums, Songs, Genres
 * Ratings on songs only.
 * No timestamps.
 * Given six songs, which three will most likely not be rated.
+
+![alt text](https://github.com/saranyavsr/YAHOO-Music-Recommendations/blob/master/Images/Track2.png)
 
