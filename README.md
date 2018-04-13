@@ -13,26 +13,25 @@ Yahoo! Music offers a wealth of information and services related to many aspects
 
 ### Project Description
 
-■  On Yahoo Music Dataset
-□  Artists, Albums, Songs, Genres
-■  Track 1: predict user rating
-■  Track 2: decide whether a user rates a song or not
+On Yahoo Music Dataset - Artists, Albums, Songs, Genres
+* Track 1: predict user rating
+* Track 2: decide whether a user rates a song or not
 
 #### Track 1
 
-■  Typical collaboration filtering task
-■  Predict the rating of a specific user for unrated songs
-■  Includes hierarchy of items
-□  User might have rated other songs of same album/artist
-□  No user might have rated the song but the same album/artist
-■  Includes time stamp of rating
-□  Rating behavior might have changed over time □  Older songs rated differently than newer songs?
+* Typical collaboration filtering task
+* Predict the rating of a specific user for unrated songs
+* Includes hierarchy of items
+  - User might have rated other songs of same album/artist
+  - No user might have rated the song but the same album/artist
+* Includes time stamp of rating
+  - Rating behavior might have changed over time □  Older songs rated differently than newer songs?
 
 #### Track 2
 
-■  Predict if a user would rate a given song highly or not at all ■  Need a model for rate behavior
-□  Machine learning?
-■  Ratings on songs only
-■  No timestamps
-■  Given six songs, which three will most likely not be rated
+* Predict if a user would rate a given song highly or not at all 
+* Need a model for rate behavior
+* Ratings on songs only
+* No timestamps
+* Given six songs, which three will most likely not be rated
 
