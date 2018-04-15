@@ -16,3 +16,9 @@ AlbumID|Rating|2
 
 Generate mean of each user's ratings.
 
+## Generateratings
+
+Generate ratings for all the item in the hierarchy structure.
+
+
+
