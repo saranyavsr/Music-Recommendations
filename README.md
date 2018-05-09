@@ -1,4 +1,4 @@
-# Music-Recommendations (On-going)
+# Music-Recommendations
 Yahoo Music Recommendation system based on several user ratings for albums and provide song recommendations to the users.
 
 ## Dataset
@@ -44,3 +44,9 @@ On Yahoo Music Dataset - Artists, Albums, Songs, Genres
 
 ![alt text](https://github.com/saranyavsr/YAHOO-Music-Recommendations/blob/master/Images/Track2.png)
 
+#### Artist-Recommendations
+
+* Provided user ratings of music artists
+* Provided artist_id and name of each musical artist.
+* Contains 11,557,943 ratings of 98,211 artists by 1,948,882 anonymous users
+* Provide top 5 artist recommendations to the user
