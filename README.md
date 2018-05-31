@@ -50,3 +50,11 @@ On Yahoo Music Dataset - Artists, Albums, Songs, Genres
 * Provided artist_id and name of each musical artist.
 * Contains 11,557,943 ratings of 98,211 artists by 1,948,882 anonymous users
 * Provide top 5 artist recommendations to the user
+
+
+#### References
+
+https://github.com/dreamerconglin/YAHOO-Music-Recommendations/tree/master/Python%20Code
+https://github.com/AnneshaChowdhury/KDD-Cup-Music-Recommendation-System-using-Yahoo-Music-Datasets/tree/master/Data%20Preprocessing
+https://github.com/btq/Recommender_Yahoo_Music/blob/master/Yahoo_Music_User_Based_Recommender.ipynb
+
